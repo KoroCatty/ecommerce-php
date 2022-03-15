@@ -1,0 +1,23 @@
+.shopFeatured {
+  margin-top:200px!important;
+}
+
+.shop__hr {
+  margin: 10px 0;
+}
+
+// 画像サイズの統一
+.shopContainer img {
+width: 100%;
+height: auto;
+box-sizing: border-box;
+object-fit: cover;
+}
+
+.shopPagination a {
+  color: coral;
+  &:hover {
+    color: white;
+    background-color: coral;
+  }
+}

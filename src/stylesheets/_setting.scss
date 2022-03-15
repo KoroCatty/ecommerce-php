@@ -23,19 +23,10 @@ $accent : #ffee00;
 /* Mixin---------------------------------------------- */
 
 $w-s: 480;
-$w-m: 785;
+$w-m: 990;
 $w-l: 1080;
 $w-xl: 1280;
 
-
-// $breakpoints: (
-//   's': 'screen and (max-width:'+ $w-s +'px)',
-//   'm': 'screen and (max-width:'+ $w-m +'px)',
-//   'l': 'screen and (max-width:'+ $w-l +'px)',
-//   'xl': 'screen and (max-width:'+ $w-xl +'px)',
-// ) !default;
-
-// Wordpress用 Mediaクエリ設定
 $breakpoints: (
   's': 'screen and (max-width: '+ $w-s +'px)',
   'm': 'screen and (max-width: '+ $w-m +'px) and (min-width:'+ $w-s +'px)',
