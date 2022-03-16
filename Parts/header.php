@@ -92,17 +92,24 @@ if (!$mysqli) {
             <a class="nav-link nav__itemLink" href="#">Blog</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link nav__itemLink" href="#">Contact</a>
+            <a class="nav-link nav__itemLink" href="http://localhost/ecommerce-php/contact.php">Contact</a>
           </li>
 
           <!-- icons -->
           <li class="nav-item">
-            <i class="fa-solid fa-bag-shopping nav__itemIcon"></i>
-            <i class="fa-solid fa-cart-shopping nav__itemIcon"></i>
+
+
+            <a href="http://localhost/ecommerce-php/cart.php">
+              <i class="fa-solid fa-cart-shopping nav__itemIcon"></i>
+            </a>
+
+            <a href="http://localhost/ecommerce-php/account.php">
+              <i class="fa-solid fa-bag-shopping nav__itemIcon"></i>
+            </a>
+
           </li>
         </ul>
 
       </div>
     </div>
   </nav>
-

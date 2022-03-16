@@ -17,7 +17,7 @@ include("Parts/header.php");
     <div class="row mx-auto container featuredSection__row shopContainer">
 
 
-      <div class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
+      <div onclick="window.location.href='single_product.php';"  class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
         <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
         <div class="star featuredSection__star">
           <i class="fas fa-star"></i>
@@ -31,7 +31,7 @@ include("Parts/header.php");
         <button class="buy-btn">Buy Now</button>
       </div>
 
-      <div class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
+      <div onclick="window.location.href='single_product.php';" class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
         <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
         <div class="star featuredSection__star">
           <i class="fas fa-star"></i>
@@ -45,7 +45,7 @@ include("Parts/header.php");
         <button class="buy-btn">Buy Now</button>
       </div>
 
-      <div class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
+      <div onclick="window.location.href='single_product.php';" class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
         <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
         <div class="star featuredSection__star">
           <i class="fas fa-star"></i>
@@ -59,7 +59,7 @@ include("Parts/header.php");
         <button class="buy-btn">Buy Now</button>
       </div>
 
-      <div class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
+      <div onclick="window.location.href='single_product.php';" class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
         <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
         <div class="star featuredSection__star">
           <i class="fas fa-star"></i>
@@ -73,7 +73,7 @@ include("Parts/header.php");
         <button class="buy-btn">Buy Now</button>
       </div>
 
-      <div class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
+      <div onclick="window.location.href='single_product.php';" class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
         <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
         <div class="star featuredSection__star">
           <i class="fas fa-star"></i>
@@ -87,7 +87,7 @@ include("Parts/header.php");
         <button class="buy-btn">Buy Now</button>
       </div>
 
-      <div class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
+      <div onclick="window.location.href='single_product.php';" class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
         <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
         <div class="star featuredSection__star">
           <i class="fas fa-star"></i>
@@ -101,7 +101,7 @@ include("Parts/header.php");
         <button class="buy-btn">Buy Now</button>
       </div>
 
-      <div class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
+      <div onclick="window.location.href='single_product.php';" class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
         <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
         <div class="star featuredSection__star">
           <i class="fas fa-star"></i>
@@ -115,64 +115,7 @@ include("Parts/header.php");
         <button class="buy-btn">Buy Now</button>
       </div>
 
-      <div class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
-        <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
-        <div class="star featuredSection__star">
-          <i class="fas fa-star"></i>
-          <i class="fas fa-star"></i>
-          <i class="fas fa-star"></i>
-          <i class="fas fa-star"></i>
-          <i class="fas fa-star"></i>
-        </div>
-        <h5 class="p-name">Sports Shoes</h5>
-        <h4 class="p-price">$198.8</h4>
-        <button class="buy-btn">Buy Now</button>
-      </div>
-
-
-      <div class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
-        <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
-        <div class="star featuredSection__star">
-          <i class="fas fa-star"></i>
-          <i class="fas fa-star"></i>
-          <i class="fas fa-star"></i>
-          <i class="fas fa-star"></i>
-          <i class="fas fa-star"></i>
-        </div>
-        <h5 class="p-name">Sports Shoes</h5>
-        <h4 class="p-price">$198.8</h4>
-        <button class="buy-btn">Buy Now</button>
-      </div>
-
-      <div class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
-        <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
-        <div class="star featuredSection__star">
-          <i class="fas fa-star"></i>
-          <i class="fas fa-star"></i>
-          <i class="fas fa-star"></i>
-          <i class="fas fa-star"></i>
-          <i class="fas fa-star"></i>
-        </div>
-        <h5 class="p-name">Sports Shoes</h5>
-        <h4 class="p-price">$198.8</h4>
-        <button class="buy-btn">Buy Now</button>
-      </div>
-
-      <div class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
-        <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
-        <div class="star featuredSection__star">
-          <i class="fas fa-star"></i>
-          <i class="fas fa-star"></i>
-          <i class="fas fa-star"></i>
-          <i class="fas fa-star"></i>
-          <i class="fas fa-star"></i>
-        </div>
-        <h5 class="p-name">Sports Shoes</h5>
-        <h4 class="p-price">$198.8</h4>
-        <button class="buy-btn">Buy Now</button>
-      </div>
-
-      <div class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
+      <div onclick="window.location.href='single_product.php';" class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
         <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
         <div class="star featuredSection__star">
           <i class="fas fa-star"></i>
@@ -187,7 +130,7 @@ include("Parts/header.php");
       </div>
 
 
-      <div class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
+      <div onclick="window.location.href='single_product.php';" class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
         <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
         <div class="star featuredSection__star">
           <i class="fas fa-star"></i>
@@ -201,7 +144,7 @@ include("Parts/header.php");
         <button class="buy-btn">Buy Now</button>
       </div>
 
-      <div class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
+      <div onclick="window.location.href='single_product.php';" class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
         <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
         <div class="star featuredSection__star">
           <i class="fas fa-star"></i>
@@ -215,7 +158,7 @@ include("Parts/header.php");
         <button class="buy-btn">Buy Now</button>
       </div>
 
-      <div class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
+      <div onclick="window.location.href='single_product.php';" class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
         <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
         <div class="star featuredSection__star">
           <i class="fas fa-star"></i>
@@ -229,7 +172,64 @@ include("Parts/header.php");
         <button class="buy-btn">Buy Now</button>
       </div>
 
-      <div class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
+      <div onclick="window.location.href='single_product.php';" class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
+        <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
+        <div class="star featuredSection__star">
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+        </div>
+        <h5 class="p-name">Sports Shoes</h5>
+        <h4 class="p-price">$198.8</h4>
+        <button class="buy-btn">Buy Now</button>
+      </div>
+
+
+      <div onclick="window.location.href='single_product.php';" class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
+        <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
+        <div class="star featuredSection__star">
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+        </div>
+        <h5 class="p-name">Sports Shoes</h5>
+        <h4 class="p-price">$198.8</h4>
+        <button class="buy-btn">Buy Now</button>
+      </div>
+
+      <div onclick="window.location.href='single_product.php';" class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
+        <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
+        <div class="star featuredSection__star">
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+        </div>
+        <h5 class="p-name">Sports Shoes</h5>
+        <h4 class="p-price">$198.8</h4>
+        <button class="buy-btn">Buy Now</button>
+      </div>
+
+      <div onclick="window.location.href='single_product.php';" class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
+        <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
+        <div class="star featuredSection__star">
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+          <i class="fas fa-star"></i>
+        </div>
+        <h5 class="p-name">Sports Shoes</h5>
+        <h4 class="p-price">$198.8</h4>
+        <button class="buy-btn">Buy Now</button>
+      </div>
+
+      <div onclick="window.location.href='single_product.php';" class="product text-center col-lg-3 col-md-6 col-sm-12 featuredSection">
         <img src="src/images/shoes.jpg" alt="" class="img-fluid mb-3 featuredSection__img">
         <div class="star featuredSection__star">
           <i class="fas fa-star"></i>

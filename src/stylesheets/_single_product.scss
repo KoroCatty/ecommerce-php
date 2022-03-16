@@ -1,0 +1,30 @@
+.small-img-group {
+  display: flex;
+  justify-content: space-between;
+}
+
+.small-img-col {
+  flex-basis: 24%;
+  cursor: pointer;
+}
+
+.singleInput {
+  width: 50px;
+  height: 40x;
+  padding-left: 10px;
+  font-size: 16px;
+  margin-right: 10px;
+  &:focus {
+    outline: none
+  }
+}
+
+.singleButton {
+  background-color: #fb774b;
+  opacity: 1;
+  transition: 0.4s all;
+  &:hover {
+    background-color: #222222;
+  }
+}
+
