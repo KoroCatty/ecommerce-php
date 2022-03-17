@@ -1,0 +1,9 @@
+Featured -------------------------------------------
+INSERT INTO `products`(`product_name`, `product_category`,`product_description`,`product_image`,`product_image2`,`product_image3`,`product_image4`,`product_price`,`product_special_offer`,`product_color`) VALUES('white Shoes', 'shoes','awesome white shoes', 'featured1.jpeg','featured1.jpeg','featured1.jpeg', 'featured1.jpeg', 155, 0, 'white');
+
+INSERT INTO `products`(`product_name`, `product_category`,`product_description`,`product_image`,`product_image2`,`product_image3`,`product_image4`,`product_price`,`product_special_offer`,`product_color`) VALUES('Green Bag', 'bag','fashionable Bag', 'featured2.jpeg','featured2.jpeg','featured2.jpeg', 'featured2.jpeg', 248, 0, 'green');
+
+INSERT INTO `products`(`product_name`, `product_category`,`product_description`,`product_image`,`product_image2`,`product_image3`,`product_image4`,`product_price`,`product_special_offer`,`product_color`) VALUES('Black Bag', 'bag','fashionable Bag', 'featured3.jpeg','featured3.jpeg','featured3.jpeg', 'featured3.jpeg', 248, 0, 'black');
+
+Coats ----------------------------
+INSERT INTO `products` (`product_id`, `product_name`, `product_category`, `product_description`, `product_image`, `product_image2`, `product_image3`, `product_image4`, `product_price`, `product_special_offer`, `product_color`) VALUES (NULL, 'Black coat', 'coat', 'Black coat for men', 'clothes1.jpeg', 'clothes1.jpeg', 'clothes1.jpeg', 'clothes1.jpeg', '198', '0', 'black');
