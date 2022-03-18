@@ -170,7 +170,7 @@
 
 
  <!-- Watches Section -->
- <section class="featured my-5" id="watch">
+ <!-- <section class="featured my-5" id="watch">
    <div class="container text-center mt-5 py-5 featuredSection__block">
      <h3>Best Watches</h3>
      <hr>
@@ -235,12 +235,12 @@
      </div>
 
    </div>
- </section>
+ </section> -->
 
 
 
  <!-- Shoes Section -->
- <section class="featured my-5 " id="shoes">
+ <!-- <section class="featured my-5 " id="shoes">
    <div class="container text-center mt-5 py-5 featuredSection__block">
      <h3>Shoes</h3>
      <hr>
@@ -305,7 +305,7 @@
      </div>
 
    </div>
- </section>
+ </section> -->
 
 
 

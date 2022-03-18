@@ -4,7 +4,7 @@
 
       <!--  -->
       <div class="footer-one col-lg-3 col-md-6 col-sm-12">
-        <img src="src/images/k.png" alt="" class="footer__img">
+        <!-- <img src="src/images/k.png" alt="" class="footer__img"> -->
         <p class="pt-3">We provide the best products for the most affordable prices</p>
       </div>
 
@@ -42,7 +42,7 @@
       </div>
 
       <!--  -->
-      <div class="footer-one col-lg-3 col-md-6 col-sm-12">
+      <!-- <div class="footer-one col-lg-3 col-md-6 col-sm-12">
         <h5 class="pb-2">Instagram</h5>
         <div class="row">
           <img src="src/images/cloth.jpg" alt="" class="img-fluid w-25 h-100 m-2">
@@ -52,7 +52,7 @@
           <img src="src/images/cloth.jpg" alt="" class="img-fluid w-25 h-100 m-2">
       
         </div>
-      </div>
+      </div> -->
 
       <div class="copyright mt-5">
         <div class="row container mx-auto">
@@ -61,7 +61,7 @@
           </div>
 
           <div class="col-lg-3 col-md-5 col-sm-12 mb-4 text-nowrap mb-2">
-            <p class="">eCommerce Kojima @2022 All Right Reserved</p>
+            <p class=""> Kojima @2022 All Right Reserved</p>
           </div>
 
           <div class="col-lg-3 col-md-5 col-sm-12 mb-4 socialIcons">

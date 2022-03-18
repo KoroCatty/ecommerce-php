@@ -308,12 +308,16 @@ h5 {
   color: #fb774b;
   text-decoration: none;
   font-size: 15px;
+  background-color: white;
+  border: none;
+  width: 15%;
 }
 
 .cart .edit-btn {
   color: #fb774b;
   text-decoration: none;
   font-size: 14px;
+  background-color: white;
 }
 
 .cart .productInfo p {
@@ -581,9 +585,9 @@ th:last-child {
 
 .homeSection {
   margin-top: 80px;
-  background-image: url("../images/home.jpg");
+  background-image: url("../images/top.jpg");
   width: 100%;
-  height: 100vh;
+  height: 95vh;
   background-size: cover;
   background-repeat: no-repeat;
   display: -webkit-box;
@@ -607,7 +611,7 @@ th:last-child {
 }
 
 .homeSection--color {
-  color: coral;
+  color: white;
 }
 
 .brandContainer__row {
@@ -714,6 +718,8 @@ th:last-child {
 .featuredSection__img {
   -webkit-transition: 0.3s all;
   transition: 0.3s all;
+  width: 400px;
+  height: 400px;
 }
 
 .featuredSection__img:hover {
@@ -747,7 +753,7 @@ hr {
 
 .banner {
   margin-top: 80px;
-  background-image: url("../images/temp.jpg");
+  background-image: url("../images/banner_lady.png");
   width: 100%;
   height: 60vh;
   background-size: cover;

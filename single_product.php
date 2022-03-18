@@ -97,7 +97,7 @@ include("Parts/header.php");
           <input type="hidden" name="product_price" value="<?php echo $row['product_price']; ?>">
 
           <!-- Quantity -->
-          <input class="singleInput" type="number" name="product_quantity" value="7" />
+          <input class="singleInput" type="number" name="product_quantity" value="1" />
           <button class="singleButton" type="submit" name="add_to_cart">Add To Cart</button>
         </form>
 
